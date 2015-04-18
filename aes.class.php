@@ -1,10 +1,4 @@
 <?php
-/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  */
-/*  AES implementation in PHP                                                                     */
-/*    (c) Chris Veness 2005-2014 www.movable-type.co.uk/scripts                                   */
-/*    Right of free use is granted for all commercial or non-commercial use under CC-BY licence.  */
-/*    No warranty of any form is offered.                                                         */
-/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  */
 
 Class Aes
 {
@@ -189,5 +183,3 @@ Class Aes
         array(0x36, 0x00, 0x00, 0x00));
 
 }
-
-/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  */

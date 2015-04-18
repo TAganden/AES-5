@@ -1,10 +1,4 @@
 <?php
-/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  */
-/*  AES counter (CTR) mode implementation in PHP                                                  */
-/*    (c) Chris Veness 2005-2014 www.movable-type.co.uk/scripts                                   */
-/*    Right of free use is granted for all commercial or non-commercial use under CC-BY licence.  */
-/*    No warranty of any form is offered.                                                         */
-/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  */
 
 Class AesCtr extends Aes
 {
@@ -166,5 +160,3 @@ Class AesCtr extends Aes
     }
 
 }
-
-/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  */
